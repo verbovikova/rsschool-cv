@@ -13,18 +13,17 @@ I'm 22 years old and I work as an economist in public medical institution. After
  Becauce I'm such a person, who likes to learn something new, I'v decided to change a sphere of activity. And my first step on this way is courses in RS-School. 
   
 
- ## **Skills** *(in progress)*
+## **Skills** *(in progress)*
   * Git,  GitHub 
   * Visual Code
   * HTML
 
-
-
-   ## **Education Background**
+## **Education Background**
 
    In 2021 I graduated from Academy of Public Administration under the aegis of the President of the Republic of Belarus, speciality 'manager-economist'.
 
- ## **Languages** 
+## **Languages** 
+
  * __*Russian*__ - native
  * __*English*__ - A2
 
