@@ -12,7 +12,6 @@ I'm 22 years old and I work as an economist in public medical institution. After
 
  Becauce I'm such a person, who likes to learn something new, I'v decided to change a sphere of activity. And my first step on this way is courses in RS-School. 
   
-
 ## **Skills** *(in progress)*
   * Git,  GitHub 
   * Visual Code
